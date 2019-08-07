@@ -1,9 +1,10 @@
-Hello mister Twister!!!
+Hello mistàâûer Tàûâàwister!!!
 
+potyure
 
-
-git init
-git add README.md
-git commit -m "first commit"
+git inûààûââàit
+git aûâàd README.md
+<saas>
+git câàûâûommit -m "first commit"
 git remote add origin https://github.com/DzmitryN/tT.git
-git push -u origin master
+git pu1sh -u origi</saas>
