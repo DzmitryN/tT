@@ -3,8 +3,8 @@ Hello mistàâûer Tàûâàwister!!!
 potyure
 
 git inûààûââàit
-git aûâàd README.md
-<saas>
+git aûâàd 1README.md
+<saa2s>
 git câàûâûommit -m "first commit"
 git remote add origin https://github.com/DzmitryN/tT.git
-git pu1sh -u origi</saas>
+git pu1shdd -u origi</saas>
